@@ -19,7 +19,6 @@ Para testar todas as funcionalidades das classes, siga os passos abaixo no seu a
 
     ```bash
     git clone https://github.com/diegomoraespro/exercicio-classe-2025-2.git
-    cd exercicio-classe-2025-2
     ```
 
 2.  Compile a Classes:
