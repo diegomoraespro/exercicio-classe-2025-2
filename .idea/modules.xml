@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aluno/Aluno.iml" filepath="$PROJECT_DIR$/Aluno/Aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cliente/Cliente.iml" filepath="$PROJECT_DIR$/Cliente/Cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Filme/Filme.iml" filepath="$PROJECT_DIR$/Filme/Filme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcionario/Funcionario.iml" filepath="$PROJECT_DIR$/Funcionario/Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Livro/Livro.iml" filepath="$PROJECT_DIR$/Livro/Livro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pedido/Pedido.iml" filepath="$PROJECT_DIR$/Pedido/Pedido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pessoa/Pessoa.iml" filepath="$PROJECT_DIR$/Pessoa/Pessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Produto/Produto.iml" filepath="$PROJECT_DIR$/Produto/Produto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Professor/Professor.iml" filepath="$PROJECT_DIR$/Professor/Professor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Trabalho_Classe_IFF.iml" filepath="$PROJECT_DIR$/.idea/Trabalho_Classe_IFF.iml" />
+    </modules>
+  </component>
+</project>
