@@ -18,7 +18,7 @@ Para testar todas as funcionalidades das classes, siga os passos abaixo no seu a
 1.  Clone o Repositório:
 
     ```bash
-    git clone [https://github.com/diegomoraespro/exercicio-classe-2025-2.git](https://github.com/diegomoraespro/exercicio-classe-2025-2.git)
+    git clone https://github.com/diegomoraespro/exercicio-classe-2025-2.git
     cd exercicio-classe-2025-2
     ```
 
